@@ -1,0 +1,15 @@
+﻿Build started 09/02/2015 10:23:16.
+     1>Project "C:\Users\Hristo\Desktop\Semester 8\EE6032_Communication_and_Security_Protocols\Project\Project-Help\chilkat-9.5.0-x86-vc10\LinkSample\LinkSample.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /GF- /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 11060905.cpp
+         11060905.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hristo\Desktop\Semester 8\EE6032_Communication_and_Security_Protocols\Project\Project-Help\chilkat-9.5.0-x86-vc10\LinkSample\Release\Sample.exe" /INCREMENTAL:NO /NOLOGO crypt32.lib ws2_32.lib ChilkatRelDll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hristo\Desktop\Semester 8\EE6032_Communication_and_Security_Protocols\Project\Project-Help\chilkat-9.5.0-x86-vc10\LinkSample\Release\Sample.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hristo\Desktop\Semester 8\EE6032_Communication_and_Security_Protocols\Project\Project-Help\chilkat-9.5.0-x86-vc10\LinkSample\Release\Sample.lib" /MACHINE:X86 /SAFESEH Release\11060905.obj
+         Generating code
+         Finished generating code
+         LinkSample.vcxproj -> C:\Users\Hristo\Desktop\Semester 8\EE6032_Communication_and_Security_Protocols\Project\Project-Help\chilkat-9.5.0-x86-vc10\LinkSample\Release\Sample.exe
+     1>Done Building Project "C:\Users\Hristo\Desktop\Semester 8\EE6032_Communication_and_Security_Protocols\Project\Project-Help\chilkat-9.5.0-x86-vc10\LinkSample\LinkSample.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.41
